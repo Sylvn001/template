@@ -33,7 +33,7 @@ This project as developed with purpose to use for all my projects template :D.
 Open Bowser in [`localhost:3333`](http://localhost:3333).
 
 ## 📝 License
-This project use a <a href="./license.md"> MIT </a> License
+This project use a <a href="./LICENSE"> MIT </a> License
 
 ## :atom_symbol: Follow me!
 - Instagram: https://www.instagram.com/sylvn001/
