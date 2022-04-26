@@ -25,16 +25,12 @@
 ## 💻 Project
 This project as developed with purpose to use for all my projects template :D.
 
-
 ## 🚀 How start
 - Install dependencies using `yarn`
 - start web server in localhost using `yarn dev`
 
 ## 🕸️ Test in WEB
 Open Bowser in [`localhost:3333`](http://localhost:3333).
-
-## Send Email
-![image](https://user-images.githubusercontent.com/50564121/163296483-8af3bee7-597b-41c7-981d-330cb7155b6d.png)
 
 ## 📝 License
 This project use a <a href="./license.md"> MIT </a> License
